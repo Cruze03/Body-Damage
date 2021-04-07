@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"EnabledBodyDMG"
+	{
+		"en"		"[SM] Enabled the displaying of body damage."
+	}
+	"DisabledBodyDMG"
+	{
+		"en"		"[SM] Disabled the displaying of body damage."
+	}
+}
